@@ -8,7 +8,7 @@ public class MyClass {
         this.trueOrFalse = trueOrFalse ;
     }
     public void display(){
-        System.out.println("name");
+        System.out.println(name);
         System.out.println(age);
         System.out.println(trueOrFalse);
     }
